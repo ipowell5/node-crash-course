@@ -1,0 +1,4 @@
+This is the content of blog3.txt it is a large text file for testing STREAMING
+hdasjabslhafskjbfkjs
+hello World hello
+hello
